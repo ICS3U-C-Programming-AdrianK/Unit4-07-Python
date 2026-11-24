@@ -7,7 +7,7 @@
 def main():
     # set loop for numbers between 1000 and 2000
     for counter in range(1000, 2001):
-        print(counter, end = " ")
+        print(counter, end=" ")
 
         # set up the if statement for cursor
         if counter % 5 == 4:
