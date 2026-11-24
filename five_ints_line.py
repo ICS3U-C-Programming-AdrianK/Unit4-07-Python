@@ -12,7 +12,8 @@ def main():
         # set up the if statement for cursor
         if counter % 5 == 4:
             print("")
-
+    print("")
+    
 
 if __name__ == "__main__":
     main()
